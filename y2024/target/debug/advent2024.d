@@ -1,0 +1,1 @@
+/Users/norden/code/rust/advent2024/advent2024/target/debug/advent2024: /Users/norden/code/rust/advent2024/advent2024/src/day1/mod.rs /Users/norden/code/rust/advent2024/advent2024/src/day2/mod.rs /Users/norden/code/rust/advent2024/advent2024/src/main.rs
