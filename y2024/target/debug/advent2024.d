@@ -1,1 +1,1 @@
-/Users/norden/code/rust/advent2024/advent2024/target/debug/advent2024: /Users/norden/code/rust/advent2024/advent2024/src/day1/mod.rs /Users/norden/code/rust/advent2024/advent2024/src/day2/mod.rs /Users/norden/code/rust/advent2024/advent2024/src/main.rs
+/Users/norden/code/AOC/y2024/target/debug/advent2024: /Users/norden/code/AOC/y2024/src/day1/mod.rs /Users/norden/code/AOC/y2024/src/day2/mod.rs /Users/norden/code/AOC/y2024/src/day3/mod.rs /Users/norden/code/AOC/y2024/src/main.rs
