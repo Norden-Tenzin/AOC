@@ -3,6 +3,7 @@ mod day2;
 mod day3;
 mod day4;
 mod day5;
+mod day6;
 
 fn main() {
     // Day 1
@@ -29,9 +30,16 @@ fn main() {
     //println!("{}", res);
 
     // Day 5
-    let res = day5::problem1("inputs/day5.txt");
+    //let res = day5::problem1("inputs/day5.txt");
+    //println!("problem1: {}", res);
+    //
+    //let res = day5::problem2("inputs/day5.txt");
+    //println!("problem2: {}", res);
+
+    // Day 6
+    let res = day6::problem1("inputs/day6.txt");
     println!("problem1: {}", res);
 
-    let res = day5::problem2("inputs/day5.txt");
-    println!("problem2: {}", res);
+    //let res = day6::problem2("inputs/day6.txt");
+    //println!("problem2: {}", res);
 }
